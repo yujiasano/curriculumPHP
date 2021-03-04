@@ -1,0 +1,33 @@
+@media screen and (max-width: 479px) {
+  .wrapper {
+    width: 200px;
+
+  }
+
+  .header {
+    height: 200px;
+
+  }
+
+  .header-item {
+    height: 160px;
+    width: 60px;
+    right: 70px;
+  }
+
+  .left-contents {
+    height: 100px;
+    width: 100%;
+  }
+
+  .right-contents {
+    height: 200px;
+    width: 100%;
+  }
+
+  .right-box {
+    top: 20px;
+    left: 30px;
+  }
+
+} 
