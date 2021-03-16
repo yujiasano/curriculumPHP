@@ -34,7 +34,7 @@
         <img src="yilogo.png" alt="ロゴ">
     </div>
     <div class="header-right">
-        <div class="header-up">ようこそ<?php echo $fullName; ?></div>
+        <div class="header-up">ようこそ<?php echo $fullName; ?>さん</div>
         <div class="header-down">最終ログイン日:<?php echo $lastLogin; ?></div>
     </div>
 </header>
