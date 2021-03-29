@@ -1,0 +1,26 @@
+.inline {
+  display: inline;
+  margin-right: 20px;
+}
+
+.stockTitle {
+  margin-bottom: 20px;
+}
+
+#new {
+  margin-bottom: 20px;
+  margin-right: 10px;
+}
+
+#submit {
+  padding: 5px 50px;
+}
+
+table {
+  text-align: center;
+}
+
+.stock {
+  height: 30px;
+  line-height: 30px;
+}
